@@ -1,0 +1,8 @@
+OS 2020 1
+Assignments of Week 01: done!
+
+Assignment in a nutshell:
+Run multiple bash to learn about linux and shell commands.
+
+Current notes:
+https://drive.google.com/file/d/1-30fuAYIDOPIDcvlNMpT3pkQ9YTrOh8j/view?usp=sharing
